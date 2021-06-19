@@ -1,4 +1,5 @@
 # History
+* [v3.2.3 'Tau3pulse'](#v3.2.3), 20th June 2021
 * [v3.2.2 'Tau3'](#v3.2.2), 5th April, 2020
 * [v3.2.1 'Take Tau'](#v3.2.1), 3rd April, 2020
 * [v3.2.0 'Tau'](#v3.2.0), 28th Feb, 2020
@@ -21,7 +22,17 @@
 * [v2.0.1](#v2.0.1), 9th Sept, 2014
 * [v2.0 'Phoenix'](#v2.0), 2nd Sept, 2014
 
+<a name="v3.2.3"></a>
+
+## Version 3.2.3 = Tau3pulse'
+*20th June 2021*
 <a name="v3.2.2"></a>
+[(view commits)](https://github.com/sonic-pi-net/sonic-pi/commits/v3.2.3):
+
+This is a minor bugfix to allow v3.2.2 to run on Debian and RPi OS released in 2021
+
+### Bugfixes
+* Alterations to scsynthexternal.rb to allow system to work with pulseaudio based sound by default
 
 ## Version 3.2.2 - Tau3'
 *5h April, 2020*
@@ -41,7 +52,7 @@ This is a minor bugfix and maintenance release.
 
 ## Version 3.2.1 - 'Take Tau'
 *3rd April, 2020*
-[(view commits)](https://github.com/samaaron/sonic-pi/commits/v3.2.1):
+[(view commits)](https://github.com/rbnpi/sonic-pi/commits/v3.2.1):
 
 This release is another maintenance release with a primary focus on
 increasing stability and reliability. There are therefore no major new
